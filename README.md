@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - Experiencing in developing Java Web Backend applications and working with databases.
 - ⚡ Fun fact: I love playing guitar
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hoanglethanhson)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hoanglethanhson&show_icons=true&theme=cobalt)
